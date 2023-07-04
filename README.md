@@ -2,9 +2,7 @@
 
 </p>
 
-- 🔭  I’m currently working on Avanade
-
-- 🌱  I’m always studying **Android, Clean Architecture, TypeScript, NodeJS**
+- 🌱  I’m always studying **Android, Flutter, Clean Architecture, TypeScript, NodeJS**
 
 - 🚀  How to reach me  [raphael maracaipe](raphaelmaracaipe@gmail.com)
 
